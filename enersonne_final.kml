@@ -11,22 +11,10 @@
 
         <br>
 
-        <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
-          <div class="carousel-inner">
-            <div class="carousel-item active">
-                $[img_1]
-            </div>
-            <div class="carousel-item active">
-                $[img_2]
-            </div>
-            <div class="carousel-item active">
-                $[img_3]
-            </div>
-            <div class="carousel-item active">
-                $[img_4]
-            </div>
-          </div>
-        </div>
+        $[img_1]
+        $[img_2]
+        $[img_3]
+        $[img_4]
 
         <br>
 
@@ -54,28 +42,28 @@ aliquet. Etiam id lectus et massa facilisis posuere quis volutpat massa.
       <Data name="img_1">
         <value>
         <![CDATA[
-          <img src="https://p9n42s.csb.app/src/img/1.jpeg" class="d-block w-100" alt="img_1">
+          <img src="https://p9n42s.csb.app/src/img/1.jpeg" alt="img_1">
         ]]>
         </value>
       </Data>
       <Data name="img_2">
         <value>
         <![CDATA[
-          <img src="https://p9n42s.csb.app/src/img/2.jpeg" class="d-block w-100" alt="img_2">
+          <img src="https://p9n42s.csb.app/src/img/2.jpeg" alt="img_2">
         ]]>
         </value>
       </Data>
       <Data name="img_3">
         <value>
         <![CDATA[
-          <img src="https://p9n42s.csb.app/src/img/3.jpeg" class="d-block w-100" alt="img_3">
+          <img src="https://p9n42s.csb.app/src/img/3.jpeg" alt="img_3">
         ]]>
         </value>
       </Data>
       <Data name="img_4">
         <value>
         <![CDATA[
-          <img src="https://p9n42s.csb.app/src/img/4.jpeg" class="d-block w-100" alt="img_4">
+          <img src="https://p9n42s.csb.app/src/img/4.jpeg" alt="img_4">
         ]]>
         </value>
       </Data>
