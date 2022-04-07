@@ -10,12 +10,20 @@ function initMap() {
   });
 
   var kmlLayer = new google.maps.KmlLayer({
-    url: "https://raw.githubusercontent.com/n0ss4/enersonne/main/enersonne.kml",
+    url:
+      "https://raw.githubusercontent.com/n0ss4/enersonne/csb-p9n42s/enersonne_final.kml",
     map: map,
     clickable: true,
     preserveViewport: true,
-    suppressInfoWindows: false,
+    suppressInfoWindows: true,
     screenOverlays: true,
     zIndex: 1
+  });
+
+  kmlLayer.addListener("click", function (event) {
+    console.log({ event: event });
+    var content = event.featureData.infoWindowHtml;
+    var testimonial = document.getElementById("capture");
+    testimonial.innerHTML = content;
   });
 }

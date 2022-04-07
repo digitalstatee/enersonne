@@ -2,21 +2,21 @@
   "name": "enersonne",
   "version": "1.0.0",
   "description": "",
-  "main": "maps-01.html",
+  "main": "index.html",
   "scripts": {
     "start": "serve"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/n0ss4/enersonne.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "Nossair Ghazouani",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
+    "url": "https://github.com/n0ss4/enersonne.git"
   },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://github.com/n0ss4/enersonne#readme",
   "devDependencies": {
     "serve": "^11.2.0"
   }
