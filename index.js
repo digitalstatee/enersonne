@@ -10,8 +10,7 @@ function initMap() {
   });
 
   var kmlLayer = new google.maps.KmlLayer({
-    url:
-      "https://raw.githubusercontent.com/mapbox/Simple-KML/master/sample/example.kml",
+    url: "https://raw.githubusercontent.com/n0ss4/enersonne/main/enersonne.kml",
     map: map,
     clickable: true,
     preserveViewport: true,

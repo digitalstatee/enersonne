@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Placemark>
-      <name>Proyecto Enersonne</name>
-	  <description><![CDATA[
-		<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas 
-volutpat, dui vel posuere tincidunt, urna orci rhoncus mauris, nec 
-pretium tellus quam a risus. Phasellus ultricies scelerisque tellus nec 
-aliquet. Etiam id lectus et massa facilisis posuere quis volutpat massa.
- Nullam efficitur nisi nisl, sit amet pellentesque justo lobortis ac.<br></div>]]></description>
+     <Placemark>
+      <name>Portland</name>
       <Point>
-        <coordinates>-4.478527800000001,36.6885278,0</coordinates>
+        <coordinates>-122.681944,45.52,0</coordinates>
       </Point>
     </Placemark>
   </Document>
