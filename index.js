@@ -10,8 +10,8 @@ function initMap() {
   });
 
   var kmlLayer = new google.maps.KmlLayer({
-    url:
-      "http://api.flickr.com/services/feeds/geo/?g=322338@N20&lang=en-us&format=feed-georss",
-    map: map
+    url: "https://raw.githubusercontent.com/n0ss4/enersonne/main/enersonne.kml"
   });
+
+  kmlLayer.setMap(map);
 }
