@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>enersonne.kml</name>
+	<Style id="failed">
+	</Style>
+	<Style id="failed0">
+	</Style>
+	<StyleMap id="__managed_style_0B368FD4B72133119178">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="000A7E2E9521330ED633">
+		<name>Proyecto Enersonne</name>
+		<description><![CDATA[<img style="max-width:200px;" src="file:///C:/Users/nghaz/OneDrive/Documentos/Proyectos/Enersonne Solar/src/img/1.jpeg">
+<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas 
+volutpat, dui vel posuere tincidunt, urna orci rhoncus mauris, nec 
+pretium tellus quam a risus. Phasellus ultricies scelerisque tellus nec 
+aliquet. Etiam id lectus et massa facilisis posuere quis volutpat massa.
+ Nullam efficitur nisi nisl, sit amet pellentesque justo lobortis ac.<br></div>]]></description>
+		<LookAt>
+			<longitude>-4.478527800034168</longitude>
+			<latitude>36.688527799681</latitude>
+			<altitude>0</altitude>
+			<heading>-1.979656747609929e-11</heading>
+			<tilt>0</tilt>
+			<range>827.1099985425674</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B368FD4B72133119178</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>-4.4785278,36.6885278,0</coordinates>
+		</Point>
+		<gx:Carousel>
+			<gx:Image kml:id="hosted_image_QUlzRy92YkpUWllaR1N1VWFyZXJWbmFWR2RHRDI3ODltMlU4aGpXNjlBR05yb0pNUGNlOTlxWEJUU0pCdWFCd1RzN0l3YkdZWmdjbEFwRUVmdDZLNzlNTE1TTkorZVpQbCtGZW02aG5rblFRd3ozWjBaLzYzOHRucVc1SEk0dXkxUktsTlJ4RTljbElpamMzS0NqZzZRb0hOOTlTREFiTXFmblRNY2h3akpDZnZ0czYxaWFPL0ZuSmw0TmdtdXIwN0hjdTN0MDcveFBLYzROZ2EyT0pSNG9KWHBSZkUvS2NPN2szeU9sMVNsOXFnUzQzd2Q3azNrVT0_0">
+				<gx:ImageUrl>https://doc-04-70-mymaps.googleusercontent.com/untrusted/hostedimage/esc1j97cfkm510hm6lump3dues/uim5m9nq1sj86ghi82990lkqqk/1649228161750/vFp4vZEQMyV22cvtiAQ6tZ_0LnpVU3ZI/05986774058767307558/5AIsG_vYRCwk1ScdvGM25W_Pxs4EKLM2axnZcZRRXyZXYo2BXJdiXDK9M_yAcSC87lwHSpICGo5Ti_P2sAG0TQtZJsFT6gQWrrjekS5w5uGszrKY5VeUgxbNs6GIfjPpDrHWC2ojVeY0n8N_jQcAx8KN8OcuZML9ff1CWVaZ0KWPGz09CEB2f2gCMlgvACZMavXP99WjP?session=0<![CDATA[&]]>fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUlzRy92YTFHMkl2azNsdk9YTjcxbmQ3TG90Tjg2czdrUWM5enZCZkFpRm5Gc1F1Uk0yOFlEdHQvSGkxTVg1Y0xJNkc0T1lrMWxRTzRxMVVCeDJ0L0JJdWJ0RGtHZFJSeGRmWko4RGhucXc4a3BKM0ZIOW4yUHlqOXpGa0MyQkdUR3g5eG93Y0srZFZoZFliQVNmY3AvbXQwQjl2Wi8rMGRsZXA0S1c1MUtmVENoMno0aVEybSsyT2J5V3hxWTkyeVRrWHc3QlZFRVRsWm9rTzFTTkF6UkpqYVdyMGJ2MCs2VUxEVWt2ZEdXaC9UcnpGU0RFMnVSQT0">
+				<gx:ImageUrl>https://doc-0o-70-mymaps.googleusercontent.com/untrusted/hostedimage/esc1j97cfkm510hm6lump3dues/vuvn15ug1pg23p1s5sdf91daq4/1649228236500/vFp4vZEQMyV22cvtiAQ6tZ_0LnpVU3ZI/05986774058767307558/5AIsG_vZPNvgSY1gQzWDe72HgMzNDXa5RlQxQXWGKAPSX8BeEdHxJ5AdEHao0zXfFebXPvuELygJTLrI3bJ2Q1sD6B06wzIXlu16inrC-HhdZgh2QmA6R4eDH06CNFq0YaH5kLvUhMs20itnEgEUvF5pqCYbl3nvkgTllqlqpArsQe_acJyYRDSd3QR2U_NiSp8aSX7zC?session=0<![CDATA[&]]>fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUlzRy92WmFIMlpNVUozODRuT1MwWGNiOEpuVVJHbnljcmh1NlhidFFQWmtGQ1BUQy9TVGp6QUxFYWNHVHBaTHpCeFdKUmdtbXZZMDFpY2tOMW1WclJvUTN0WE5QNXI4bThHVzVzUENrUmg3enFjUlRxbDZuQ2R4d2toL2NmZXBUZFhNNk9wL2VRVzlPT2FnSE40c0Z4Y1VKZ3NPemI1ODZDODRzcG9nZE1zOWlqMlFvTzJIOGU1NkF2RzFvUGx5RjgvL3hsS3FlbzJ6bHNEbHNKajFTMlgvZklJWGhoWUFHWmRyMy84WExVOHl6RjF5MlRXSGlRPT0_0">
+				<gx:ImageUrl>https://doc-10-70-mymaps.googleusercontent.com/untrusted/hostedimage/esc1j97cfkm510hm6lump3dues/etvbb10a6tsjnrudnm3f9d24cc/1649228236500/vFp4vZEQMyV22cvtiAQ6tZ_0LnpVU3ZI/05986774058767307558/5AIsG_vaaenazwqTPjbx7mftzAlqbFICs93zJkJ7G6WbMUGmhckvUye7HB-lWYXJK_A0XGAIIwzT8l44N8lKXIpPvM3GgfPFTEd2cUIOafK8KlkkKH4yBTHQx8yirNvvYjWbFL9l0rQyysZl0pr5xuge-jAWR6t_W_fnV24w2hYjpmcVwCAYXkKQw-eTQKMMzs7xIZpU?session=0<![CDATA[&]]>fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+			<gx:Image kml:id="hosted_image_QUlzRy92WnFKRDhKLzYzOWVOenRTcDljNUd2a1JYM29UaW1IOXROdk1YallDUHdaTHovdDFYQVpFL0FHZTRnbTljWldyd2pwWUtCVWp0UmxaZE5iM09mOHdqelkwT2RtSmJnUkFYMHpyVURqZnl5VFJjYnE4UTJoVXp0Y3NKVjNlMFJZZjg1L3VDQjlFYXUwVkhaelZ5b1JiR1FtcTEvNWV6NWZWbk1kYUpvUkE1SWJyK29XMHUrcjN2cHJJNTJCK0FEdU5LSHJ3SHAyb3JXWjVaUVFQMnJRUUNXcjBPa3JHcU94Rk54Z0VzU0szSHJLcnhGdnN3PT0">
+				<gx:ImageUrl>https://doc-08-70-mymaps.googleusercontent.com/untrusted/hostedimage/esc1j97cfkm510hm6lump3dues/qe4h89f03nsftolfj862bd4s9s/1649228311250/vFp4vZEQMyV22cvtiAQ6tZ_0LnpVU3ZI/05986774058767307558/5AIsG_vamtM5FZHs9-tMhea9J13w9Gm04cdnSmtKWJWFqk82nZIUtyYUuhI98xvkcBM5Vei-GqZsr7QOcpF6nvrsxc5SMEiJtIoo6EmjVQrQ-E1tC-1-_Vt4In8ElkqclakSIpvrdzY5O7eHvPDibYSi4UVNPxBQ9l3FDMtoETJmzCdIBFZDAr1GDrO0nON5bLKEYmgk?session=0<![CDATA[&]]>fife=s{size}</gx:ImageUrl>
+			</gx:Image>
+		</gx:Carousel>
+	</Placemark>
+</Document>
+</kml>
