@@ -11,11 +11,11 @@ function initMap() {
 
   var kmlLayer = new google.maps.KmlLayer({
     url:
-      "https://raw.githubusercontent.com/n0ss4/enersonne/csb-p9n42s/enersonne_v2.kml",
+      "https://raw.githubusercontent.com/n0ss4/enersonne/csb-p9n42s/enersonne.kml",
     map: map,
     clickable: true,
     preserveViewport: true,
-    suppressInfoWindows: false,
+    suppressInfoWindows: true,
     screenOverlays: true,
     zIndex: 1
   });

@@ -5,7 +5,15 @@
 	<Style id="enersonne">
     <BalloonStyle>
       <text>
-        <![CDATA[ $[video] ]]>
+        <![CDATA[ 
+        
+        $[name]
+
+        $[img_1]
+
+        $[description] 
+        
+        ]]>
       </text>
     </BalloonStyle>
   </Style>
@@ -24,10 +32,12 @@ aliquet. Etiam id lectus et massa facilisis posuere quis volutpat massa.
  Nullam efficitur nisi nisl, sit amet pellentesque justo lobortis ac.<br></div>]]></description>
 		
 		<ExtendedData>
-      <Data name="video">
-        <value><![CDATA[<iframe width="640" height="360"
-          src="https://www.youtube.com/embed/ZE8ODPL2VPI" frameborder="0"
-          allowfullscreen></iframe><br><br>]]></value>
+      <Data name="img_1">
+        <value>
+        <![CDATA[
+          <img src="https://p9n42s.csb.app/src/img/1.jpeg" alt="img_1">
+        ]]>
+        </value>
       </Data>
     </ExtendedData>
 
