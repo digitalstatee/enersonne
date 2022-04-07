@@ -17,10 +17,11 @@ body {
   float: left;
   border: thin solid #333;
   border-left: none;
-  padding: 2.5rem 5rem 2.5rem 5rem;
+  padding: 2.5rem 3rem 2.5rem 3rem;
 }
 
-img {
+#capture img {
   max-width: 30vh;
+  max-height: 30vh;
   display: inline-block;
 }
