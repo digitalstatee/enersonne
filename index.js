@@ -10,7 +10,7 @@ function initMap() {
   });
 
   var kmlLayer = new google.maps.KmlLayer({
-    url: "https://raw.githubusercontent.com/n0ss4/enersonne/main/enersonne.kml",
+    url: "https://p9n42s.csb.app/enersonne.kml",
     map: map,
     clickable: true,
     preserveViewport: true,
