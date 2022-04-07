@@ -18,13 +18,15 @@
 	</StyleMap>
 	<Placemark id="000A7E2E9521330ED633">
 		<name>Proyecto Enersonne</name>
-		<image>https://p9n42s.csb.app/src/img/1.jpeg</image>
 		<description><![CDATA[<img style="max-width:200px;" src="file:///C:/Users/nghaz/OneDrive/Documentos/Proyectos/Enersonne Solar/src/img/1.jpeg">
 <div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas 
 volutpat, dui vel posuere tincidunt, urna orci rhoncus mauris, nec 
 pretium tellus quam a risus. Phasellus ultricies scelerisque tellus nec 
 aliquet. Etiam id lectus et massa facilisis posuere quis volutpat massa.
  Nullam efficitur nisi nisl, sit amet pellentesque justo lobortis ac.<br></div>]]></description>
+		<Icon>
+			<href>http://developers.google.com/kml/documentation/images/etna.jpg</href>
+		</Icon>
 		<LookAt>
 			<longitude>-4.478527800034168</longitude>
 			<latitude>36.688527799681</latitude>
