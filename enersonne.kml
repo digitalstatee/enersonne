@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Document>
+	<name>Enersonne</name>
+	<Style id="enersonne">
+    <BalloonStyle>
+      <text>
+        <![CDATA[ $[video] ]]>
+      </text>
+    </BalloonStyle>
+  </Style>
+
 	<Placemark>
 
+		<name>Proyecto Enersonne</name>
+
+		<styleUrl>#enersonne</styleUrl>
+
+		<description><![CDATA[
+<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas 
+volutpat, dui vel posuere tincidunt, urna orci rhoncus mauris, nec 
+pretium tellus quam a risus. Phasellus ultricies scelerisque tellus nec 
+aliquet. Etiam id lectus et massa facilisis posuere quis volutpat massa.
+ Nullam efficitur nisi nisl, sit amet pellentesque justo lobortis ac.<br></div>]]></description>
+		
 		<ExtendedData>
       <Data name="video">
         <value><![CDATA[<iframe width="640" height="360"
@@ -11,15 +31,6 @@
       </Data>
     </ExtendedData>
 
-		<name>Proyecto Enersonne</name>
-
-		<description><![CDATA[<img style="max-width:200px;" src="file:///C:/Users/nghaz/OneDrive/Documentos/Proyectos/Enersonne Solar/src/img/1.jpeg">
-<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas 
-volutpat, dui vel posuere tincidunt, urna orci rhoncus mauris, nec 
-pretium tellus quam a risus. Phasellus ultricies scelerisque tellus nec 
-aliquet. Etiam id lectus et massa facilisis posuere quis volutpat massa.
- Nullam efficitur nisi nisl, sit amet pellentesque justo lobortis ac.<br></div>]]></description>
-		
 		<Point>
 			<altitudeMode>relativeToGround</altitudeMode>
 			<coordinates>-4.4785278,36.6885278,0</coordinates>

@@ -11,7 +11,7 @@ function initMap() {
 
   var kmlLayer = new google.maps.KmlLayer({
     url:
-      "https://raw.githubusercontent.com/n0ss4/enersonne/csb-p9n42s/enersonne_v1.kml",
+      "https://raw.githubusercontent.com/n0ss4/enersonne/csb-p9n42s/enersonne_v2.kml",
     map: map,
     clickable: true,
     preserveViewport: true,
@@ -22,5 +22,8 @@ function initMap() {
 
   kmlLayer.addListener("click", function (event) {
     console.log({ event: event });
+    var content = event.featureData.infoWindowHtml;
+    var testimonial = document.getElementById("capture");
+    testimonial.innerHTML = content;
   });
 }
