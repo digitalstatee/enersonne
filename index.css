@@ -19,15 +19,13 @@ body {
 }
 
 #capture img {
-  max-width: 30vh;
-  max-height: 30vh;
   display: inline-block;
 }
 
 @media screen and (max-width: 1200px){
   #capture img {
-  max-width: 15vh;
-  max-height: 10vh;
+    max-width: 15vh;
+    max-height: 10vh;
   }
   
   #map{
@@ -42,6 +40,11 @@ body {
 }
 
 @media (min-width: 1200px){
+  #capture img{
+    max-width: 30vh;
+    max-height: 30vh;
+  }
+  
   #map{
      height: 75vh;
      width: 50%;
